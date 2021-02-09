@@ -2,6 +2,8 @@
 
 Responsive Image gallery for your images including name and content.
 
+I used bootstrap for navigation bar.
+
 xLarge Screen :
 
 ![alt text](https://github.com/dbasibuyuk/Image-Gallery/blob/main/xLargeScreen.png?raw=true)
