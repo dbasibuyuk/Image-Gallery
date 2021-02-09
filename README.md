@@ -1,2 +1,8 @@
 # Image-Gallery
-Image gallery page with a content
+
+Responsive Image gallery for your images including name and content.
+
+
+
+
+Example images are taken from Riot Games, Inc.
